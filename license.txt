@@ -1,0 +1,11 @@
+Model Information:
+* title:	BALÓN DE FUTBOL (OBJ)
+* source:	https://sketchfab.com/3d-models/balon-de-futbol-obj-2a2e7a3e5a6a4a4c935314052940a62f
+* author:	ElUvitta (https://sketchfab.com/xddron814)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BALÓN DE FUTBOL (OBJ)" (https://sketchfab.com/3d-models/balon-de-futbol-obj-2a2e7a3e5a6a4a4c935314052940a62f) by ElUvitta (https://sketchfab.com/xddron814) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
